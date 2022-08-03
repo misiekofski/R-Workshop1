@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R-Workshop1", "R-Workshop1\R-Workshop1.csproj", "{12A2C067-4B89-46FC-A018-7B16C540B438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R-Workshop1Test", "R-Workshop1Test\R-Workshop1Test.csproj", "{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12A2C067-4B89-46FC-A018-7B16C540B438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A2C067-4B89-46FC-A018-7B16C540B438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A2C067-4B89-46FC-A018-7B16C540B438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A2C067-4B89-46FC-A018-7B16C540B438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3A400FD-9C69-4969-ACEC-FB2225A63DA3}
+	EndGlobalSection
+EndGlobal

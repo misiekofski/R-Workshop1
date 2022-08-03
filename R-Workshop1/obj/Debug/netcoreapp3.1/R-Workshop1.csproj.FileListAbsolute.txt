@@ -1,0 +1,10 @@
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\bin\Debug\netcoreapp3.1\R-Workshop1.deps.json
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\bin\Debug\netcoreapp3.1\R-Workshop1.dll
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\bin\Debug\netcoreapp3.1\R-Workshop1.pdb
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.csproj.AssemblyReference.cache
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.AssemblyInfoInputs.cache
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.AssemblyInfo.cs
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.csproj.CoreCompileInputs.cache
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.dll
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1\obj\Debug\netcoreapp3.1\R-Workshop1.pdb
