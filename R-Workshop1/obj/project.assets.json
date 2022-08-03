@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dobrz\\source\\repos\\R-Workshop1\\R-Workshop1\\R-Workshop1.csproj",
-      "projectName": "R-Workshop1",
-      "projectPath": "C:\\Users\\dobrz\\source\\repos\\R-Workshop1\\R-Workshop1\\R-Workshop1.csproj",
+      "projectUniqueName": "C:\\Users\\dobrz\\source\\repos\\R-Workshop1\\R-Workshop1\\Workshop1.csproj",
+      "projectName": "Workshop1",
+      "projectPath": "C:\\Users\\dobrz\\source\\repos\\R-Workshop1\\R-Workshop1\\Workshop1.csproj",
       "packagesPath": "C:\\Users\\dobrz\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\dobrz\\source\\repos\\R-Workshop1\\R-Workshop1\\obj\\",
       "projectStyle": "PackageReference",

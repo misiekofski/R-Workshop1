@@ -96,3 +96,4 @@ C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1Test\obj\Debug\netcoreapp3.1\
 C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1Test\obj\Debug\netcoreapp3.1\R-Workshop1Test.dll
 C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1Test\obj\Debug\netcoreapp3.1\R-Workshop1Test.pdb
 C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1Test\obj\Debug\netcoreapp3.1\R-Workshop1Test.genruntimeconfig.cache
+C:\Users\dobrz\source\repos\R-Workshop1\R-Workshop1Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32516.85
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R-Workshop1", "R-Workshop1\R-Workshop1.csproj", "{12A2C067-4B89-46FC-A018-7B16C540B438}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop1", "R-Workshop1\Workshop1.csproj", "{12A2C067-4B89-46FC-A018-7B16C540B438}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R-Workshop1Test", "R-Workshop1Test\R-Workshop1Test.csproj", "{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop1Test", "R-Workshop1Test\Workshop1Test.csproj", "{75AA8EF8-6C75-4BAE-BE69-67F7098B6F85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

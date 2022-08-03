@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("R_Workshop1Test")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("R-Workshop1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

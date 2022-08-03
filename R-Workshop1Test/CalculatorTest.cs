@@ -1,7 +1,5 @@
 ﻿using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using R_Workshop1;
 
 namespace R_Workshop1Test
 {
@@ -10,7 +8,7 @@ namespace R_Workshop1Test
         [Test]
         public void ShouldSumTwoPositiveNumbers()
         {
-            
+            var calc = new Calculator();
         }
 
     }
