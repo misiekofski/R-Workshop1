@@ -6,11 +6,11 @@ namespace R_Workshop1
 {
     internal class Calculator
     {
-        private List<string> Operations { get; set; }
+        internal List<string> Operations { get; set; }
 
         public Calculator()
         {
-            this.Operations = new List<string>();
+            Operations = new List<string>();
         }
 
         public double add(double a, double b)
@@ -21,12 +21,12 @@ namespace R_Workshop1
 
         private void addOperation(string v)
         {
-            this.Operations.Add(v);
+            Operations.Add(v);
         }
 
         private void clearOperations()
         {
-            this.Operations = new List<string>();
+            Operations = new List<string>();
         }
     }
 }
