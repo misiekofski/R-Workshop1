@@ -19,12 +19,12 @@ namespace R_Workshop1
             return a + b;
         }
 
-        private void addOperation(string v)
+        public void addOperation(string v)
         {
             Operations.Add(v);
         }
 
-        private void clearOperations()
+        public void clearOperations()
         {
             Operations = new List<string>();
         }

@@ -15,6 +15,9 @@ namespace R_Workshop1Test
             
             var expectedOperations = new List<string> { "Added 5 and 6 got result: 11" };
             CollectionAssert.AreEqual(expectedOperations, calc.Operations);
+
+            calc.clearOperations();
+            CollectionAssert.IsEmpty(calc.Operations);
         }
 
     }
