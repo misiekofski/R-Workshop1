@@ -14,9 +14,9 @@ namespace R_Workshop1Test
             Assert.That(result, Is.EqualTo(11));
 
             var otherResult = calc.add(0.1, 0.2);
-            Assert.AreEqual(otherResult, 0.3);
+            Assert.That(otherResult, Is.EqualTo(0.3).Within(0.1));
 
-            var expectedOperations = new List<string> { "Added 5 and 6 got result: 11", "Added 0,1 and 0,2 got result: 0,3" };
+            var expectedOperations = new List<string> { "Added 5 and 6 got result: 11", "Added 0,1 and 0,2 got result: 0,30000000000000004" };
             CollectionAssert.AreEqual(expectedOperations, calc.Operations);
 
             calc.clearOperations();
